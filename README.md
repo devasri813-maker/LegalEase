@@ -18,7 +18,7 @@ technology and demonstrate the concepts learned during the course.
 - HTML
 - CSS
 - JavaScript
-- [Add other technologies used in your project]
+
 
 ## Features
 - User-friendly interface
