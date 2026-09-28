@@ -1,7 +1,7 @@
 # Student Project
 
 ## Project Title
-[Enter your project title]
+LegalEase 
 
 ## Description
 This project is developed as part of the SmartBridge project activity.
